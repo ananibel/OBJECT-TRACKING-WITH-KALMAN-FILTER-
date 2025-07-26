@@ -1,7 +1,7 @@
 # Object Tracking using Kalman Filter in MATLAB
 
 <p align="center">
-  <img src="https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/common/images/brand/mathworks-logo.svg" width="300"/>
+  <img src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png" width="300"/>
 </p>
 
 <p align="center">
